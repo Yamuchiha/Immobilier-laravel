@@ -16,7 +16,6 @@ Pour lancer ce projet, nous avons besoins de php v7.4.x (x: est une nombre quelc
 
 ```bash
   cd Immobilier-laravel
-
 ```
 
 #### Création de la base de donnée 
